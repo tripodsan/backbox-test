@@ -11,4 +11,17 @@ gpg --export-secret-keys -a ECAA07B9AA445682477C0EF4A0DB169C4522D9B9 > privkey.a
 
 ```
 
+## Test
 
+```
+$ time node index.js
+Loaded private key w/o passphrase
+decrypted message
+hello test
+this is a change
+and another change
+
+real	0m1.250s
+user	0m0.737s
+sys	0m0.083s
+```
