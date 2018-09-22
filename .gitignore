@@ -2,3 +2,5 @@
 /.blackbox/pubring.kbx~
 /.blackbox/secring.gpg
 /secret.txt
+node_modules
+/privkey.asc
