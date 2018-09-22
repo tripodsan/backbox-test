@@ -1,0 +1,23 @@
+{
+  "name": "blackbox-test",
+  "version": "1.0.0",
+  "description": "Test for blackbox",
+  "main": "index.js",
+  "dependencies": {
+    "kbpgp": "^2.0.80"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tripodsan/blackbox-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tripodsan/blackbox-test/issues"
+  },
+  "homepage": "https://github.com/tripodsan/blackbox-test#readme"
+}
