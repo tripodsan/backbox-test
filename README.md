@@ -1,6 +1,6 @@
 # backbox-test
 
-Test for [blackbox](https://github.com/StackExchange/blackbox) and []KeybasePGP](https://keybase.io/kbpgp)
+Test for [blackbox](https://github.com/StackExchange/blackbox) and [KeybasePGP](https://keybase.io/kbpgp)
 
 1. Create GPG KeyPair
 
