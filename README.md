@@ -1,6 +1,6 @@
 # backbox-test
 
-Test for [blackbox](https://github.com/StackExchange/blackbox) and [KeybasePGP](https://keybase.io/kbpgp)
+Test repo for storing secrets with [blackbox](https://github.com/StackExchange/blackbox), and decrypting them with [KeybasePGP](https://keybase.io/kbpgp) or [OpenPGPJs](https://github.com/openpgpjs/openpgpjs/)
 
 1. Create GPG KeyPair
 
