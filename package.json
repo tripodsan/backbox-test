@@ -4,7 +4,8 @@
   "description": "Test for blackbox",
   "main": "index.js",
   "dependencies": {
-    "kbpgp": "^2.0.80"
+    "kbpgp": "^2.0.80",
+    "openpgp": "^4.0.2"
   },
   "devDependencies": {},
   "scripts": {
